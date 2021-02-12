@@ -1,3 +1,2 @@
-# Tkinter-Calculator-first
-This is my first tkinter project
+# Tkinter Calculator Screenshoot
 ![](ss/onecal.jpeg)
